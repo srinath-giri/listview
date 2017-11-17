@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccountinfoBackground">#649898</color>
+    <color name="colorDivider">#FFCC00</color>
+    <color name="colorGreyText">#8A8A8A</color>
+    <color name="colorGreyBackground">#F6F6F6</color>
+    <color name="colorPrimaryBlack">#FF000000</color>
+    <color name="colorPrimaryWhite">#FFFFFF</color>
+</resources>

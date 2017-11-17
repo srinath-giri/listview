@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApp" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimaryWhite</item>
+    </style>
+
+    <style name="Theme.MyApp.Logo">
+        <item name="android:logo">@drawable/icon_welcome_logo</item>
+        <item name="android:textColor">@color/colorPrimaryBlack</item>
+        <item name="android:displayOptions">useLogo|showHome</item>
+    </style>
+</resources>

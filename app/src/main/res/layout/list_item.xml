@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="6"
+    android:background="@color/colorGreyBackground">
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textColor="@color/colorGreyText"
+        android:textStyle="bold"
+        android:layout_weight="4.8"
+        android:visibility="visible" />
+    <TextView
+        android:id="@+id/amount"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:layout_gravity="end"
+        android:layout_weight="1.2"
+        android:textColor="@color/colorPrimaryBlack"
+        android:textStyle="bold" />
+
+</LinearLayout>
